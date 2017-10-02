@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{55CC2F81-0D47-47EC-9216-1BF92945C803}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SAILI-IOS1/ViewController.cs">
+    <Files>
+      <File FileName="SAILI-IOS1/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="SAILI-IOS1/ViewController.cs" Line="49" Column="99" />
+      <File FileName="SAILI-IOS1/SignUpPageController.cs" Line="106" Column="26" />
+      <File FileName="SAILI-IOS1/AccountController.cs" Line="69" Column="50" />
+      <File FileName="SAILI-IOS1/SQLite.cs" Line="2977" Column="1" />
+      <File FileName="SAILI-IOS1/UserPageController.cs" Line="18" Column="47" />
+      <File FileName="SAILI-IOS1/SAILI-Repository.cs" Line="13" Column="6" />
+      <File FileName="SAILI-IOS1/AccountVerificationController.cs" Line="50" Column="69" />
+      <File FileName="SAILI-IOS1/PasswordResetController.cs" Line="21" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SAILI-IOS1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B2FA4593-6A30-48B5-9C8B-4EB3E334E32E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.SAILI-IOS1>
+</Properties>

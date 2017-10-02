@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAILI-IOS1", "SAILI-IOS1\SAILI-IOS1.csproj", "{55CC2F81-0D47-47EC-9216-1BF92945C803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CC2F81-0D47-47EC-9216-1BF92945C803}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{55CC2F81-0D47-47EC-9216-1BF92945C803}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{55CC2F81-0D47-47EC-9216-1BF92945C803}.Release|iPhone.ActiveCfg = Release|iPhone
+		{55CC2F81-0D47-47EC-9216-1BF92945C803}.Release|iPhone.Build.0 = Release|iPhone
+		{55CC2F81-0D47-47EC-9216-1BF92945C803}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{55CC2F81-0D47-47EC-9216-1BF92945C803}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{55CC2F81-0D47-47EC-9216-1BF92945C803}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{55CC2F81-0D47-47EC-9216-1BF92945C803}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
