@@ -1,0 +1,9 @@
+/Users/daymond/Projects/SAILI-IOS1/SAILI-IOS1/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/daymond/Projects/SAILI-IOS1/SAILI-IOS1/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/actool/_PartialAppManifest.items
+/Users/daymond/Projects/SAILI-IOS1/SAILI-IOS1/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/actool/_BundleResourceWithLogicalName.items
+/Users/daymond/Projects/SAILI-IOS1/SAILI-IOS1/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/optimized/
+/Users/daymond/Projects/SAILI-IOS1/SAILI-IOS1/obj/iPhoneSimulator/Debug/SAILI-IOS1.csproj.CoreCompileInputs.cache
+/Users/daymond/Projects/SAILI-IOS1/SAILI-IOS1/bin/iPhoneSimulator/Debug/SAILI-IOS1.exe
+/Users/daymond/Projects/SAILI-IOS1/SAILI-IOS1/bin/iPhoneSimulator/Debug/SAILI-IOS1.pdb
+/Users/daymond/Projects/SAILI-IOS1/SAILI-IOS1/obj/iPhoneSimulator/Debug/SAILI-IOS1.exe
+/Users/daymond/Projects/SAILI-IOS1/SAILI-IOS1/obj/iPhoneSimulator/Debug/SAILI-IOS1.pdb
